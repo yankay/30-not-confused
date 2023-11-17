@@ -29,6 +29,10 @@
 ![image](https://user-images.githubusercontent.com/1469319/216220636-39202451-034b-47f9-b9d6-210ab6f6c79e.png)
 
 
+## 经济
+
+### [高科技租](高科技租.md)
+
 ##  人类
 
 ### 人类有 两大属性 “生物属性” 和 “经济属性”
